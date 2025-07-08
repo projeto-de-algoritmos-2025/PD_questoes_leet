@@ -41,6 +41,11 @@ Este repositório reúne as soluções desenvolvidas para os desafios práticos 
 <h3><a href="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%204/32_longest_valid.py">32. Longest Valid Parentheses</a></h3>
 <img src="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%204/32_longest.png" width="500"/>
 
+<p><strong>🎥 Demonstração em vídeo:</strong></p>
+<a href="https://youtu.be/OA7YI9fydi0" target="_blank">
+  <img src="https://img.youtube.com/vi/OA7YI9fydi0/0.jpg" alt="Assista ao vídeo no YouTube" width="640">
+</a>
+
 
 ## Instalação 
 ### Observação: a primeira resolução foi usando a linguagem pyhton e os demais foram feitos em python3
