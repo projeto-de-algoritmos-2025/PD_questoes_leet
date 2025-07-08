@@ -31,7 +31,6 @@ Este repositório reúne as soluções desenvolvidas para os desafios práticos 
 
 ## Screenshots
 <h3><a href="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%201/5_longest_palindromic.py">5. Longest Palindromic Substring</a></h3><img src="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%201/5_longest.png" width="500"/>
-<img src="" width="500"/>
 
 <h3><a href="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%202/22_generate_parentheses.py">22. Generate Parentheses</a></h3>
 <img src="https://github.com/projeto-de-algoritmos-2025/PD_questoes_leet/blob/main/Exercicio%202/22_generate.png" width="500"/>
